@@ -1,0 +1,4 @@
+https://xkcd.com/rss.xml
+https://feeds.bbci.co.uk/news/rss.xml
+https://news.ycombinator.com/rss
+https://lobste.rs/t/security.rss
