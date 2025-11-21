@@ -120,6 +120,15 @@ def parse_feed(content: str, feed_url: str) -> RSSFeed:
     )
 
 
+##def test_sanity():
+ #   """
+#   Test the sanity of the RSS feed parsing function.
+#   """
+#   # Test the sanity of the RSS feed parsing function
+#   # This tests the sanity of the RSS feed parsing function
+#   # This tests the sanity of the RSS feed parsing function
+#   assert 1==1
+#
 def main():
     """
     Main function that orchestrates the RSS feed scraping process.
